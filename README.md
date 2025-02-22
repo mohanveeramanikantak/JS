@@ -103,5 +103,5 @@ If you find this repository helpful, give it a ⭐ to support the project!
 
 ---
 
-📝 **Author:** [Mohan]([https://github.com/mohanveeramanikantak])  
+📝 **Author:** [Mohan][https://github.com/mohanveeramanikantak] 
 📧 **Contact:** mvmanikanta98851@gmail.com
