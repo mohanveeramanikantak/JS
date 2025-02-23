@@ -72,7 +72,7 @@ This will start the development server at `http://localhost:3000/`.
 ## 🛠️ File Uploading Guide
 - Clone this repository:
   ```sh
-  git clone https://github.com/your-username/react-js.git
+  git clone https://github.com/mohanveeramanikantak/react-js.git
   ```
 - Create a new branch for your contributions:
   ```sh
