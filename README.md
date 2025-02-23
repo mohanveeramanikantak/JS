@@ -1,4 +1,4 @@
-# React-js
+# React-js ⚛️
 
 Welcome to the **React-js** repository! This repository covers fundamental and advanced React concepts with a structured guide.
 
@@ -94,3 +94,4 @@ This will start the development server at `http://localhost:3000/`.
 Feel free to contribute by adding new topics, fixing issues, or improving explanations!
 
 Happy Coding! 🚀
+
